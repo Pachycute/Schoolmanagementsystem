@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminSignup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ENROLLMENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home_Page_Students.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passwordmysql.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PAYMENT ADMIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PAYMENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REQUIREMENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REQUIREMENTS_STUDENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TICKET.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
