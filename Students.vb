@@ -36,7 +36,7 @@ Public Class Students
                     MessageBox.Show("An unexpected error occurred: " & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
                 End Try
             End Using
-        End Using
+        
     End Sub
 
     ' Delete a row based on the selected REGISTRATION_NUMBER
