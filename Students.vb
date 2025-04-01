@@ -14,7 +14,7 @@ Public Class Students
         Dim sql As String = "SELECT `REGISTRATION_NUMBER`, `TRACK`, `SECTION`, `STATUS`, `SESSION`, `NAME`, `LRN`, `SEMESTER`, `STRANDS` FROM students"
 
         ' Use a Using block to ensure the command and connection are disposed of properly
-        Using con As New MySqlConnection("server=127.0.0.1;user id=root;port=3306;password=050720;database=philtech")
+       
             Using da As New MySqlDataAdapter(sql, con)
                 Table = New DataTable()
                 Try
